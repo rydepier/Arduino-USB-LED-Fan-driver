@@ -1,5 +1,5 @@
 /*******************************************************
-LED/Fan driver
+LED/Fan driver 
 
 this is simply an opto isolator that allows the Arduino to 
 drive heavy loads like high brightness LEDs or a fan
